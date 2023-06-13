@@ -1,0 +1,1739 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.OldProject2 {
+  position: absolute;
+width: 248px;
+height: 118px;
+left: 1070px;
+top: 2570px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118px;
+/* identical to box height, or 490% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.OficWorld2{
+  position: absolute;
+  width: 180px;
+  height: 118px;
+  left: 700px;
+  top: 2560px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  /* identical to box height, or 490% */
+  
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+.YearsOld2 {
+  position: absolute;
+  width: 114px;
+  height: 118px;
+  left: 310px;
+  top: 2570px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+/* Headers */
+.LogoFonts {
+  position: absolute;
+  width: 267px;
+  height: 59px;
+  left: 20px;
+  top: 20px;
+  background: #FFFFFF
+}
+
+.textHeaderLogo {
+  text-align: center;
+  font-family: 'Rammetto One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.textHeaderOne {
+  position: absolute;
+  width: 233px;
+  height: 118px;
+  left: 955px;
+  top: 11px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 29px;
+  line-height: 118px;
+  text-align: center;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+
+.imgMenu {
+  position: absolute;
+  width: 63px;
+  height: 59px;
+  left: 1251px;
+  top: 60px;
+  cursor: pointer;
+}
+
+.textHeaderMenu {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  left: 1314px;
+  top: 11px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 118px;
+  text-align: center;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+
+/* */
+
+/* Content */
+.ContentPorgrafOne {
+  position: absolute;
+  width: 515px;
+  height: 118px;
+  left: 71px;
+  top: 243px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.ContentPorgrafTwo {
+  position: absolute;
+  width: 429px;
+  height: 118px;
+  left: 107px;
+  top: 290px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+
+.ContentDescription {
+  position: absolute;
+  width: 355px;
+  height: 47px;
+  left: 126px;
+  top: 388px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 20px;
+  color: #7C7C7C;
+}
+
+.Rectangle {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+  left: 820px;
+  top: 220px;
+  border-radius: 0px;
+}
+
+.Rectangle1 {
+  position: absolute;
+  width: 373.85px;
+  height: 495.08px;
+  left: 570px;
+  top: 218.48px;
+  border-radius: 0px;
+  transform: matrix(0, 6, -0.32, 0.34, 0.94, 0, 0);
+
+}
+
+.Rectangle2 {
+  position: absolute;
+  width: 450.49px;
+  height: 500.08px;
+  left: 840px;
+  top: 180.95px;
+  border-radius: 0px;
+  transform: matrix(0, 6, -0.32, 0.34, 1, 8, 0, 0);
+}
+
+.Rectangle3 {
+  position: absolute;
+  width: 150.36px;
+  height: 127.46px;
+  left: 950px;
+  top: 623.73px;
+  border-radius: 0px;
+  transform: rotate(-20.26deg);
+}
+
+.Rectangle4 {
+  position: absolute;
+  width: 101.36px;
+  height: 94.17px;
+  left: 710.05px;
+  top: 670.61px;
+  border-radius: 0px;
+  transform: matrix(0.94, -0.34, 0.36, 0.93, 0, 0);
+}
+
+.simple_icons_woo {
+  position: absolute;
+  width: 37px;
+  height: 40px;
+  left: 196px;
+  top: 747px;
+  cursor: pointer;
+}
+
+.cib_github {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 153px;
+  top: 753px;
+  cursor: pointer;
+}
+
+.bx_bxl_git {
+  position: absolute;
+  width: 38px;
+  height: 36px;
+  left: 107px;
+  top: 749px;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.Vector1{
+  position: absolute;
+  width: 348px;
+  left: 532px;
+  top: 1609px;
+  
+  background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+}
+.Vector2{
+  position: absolute;
+  width: 348px;
+  left: 532px;
+  top: 1404px;
+  
+  background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+}
+.Vector3{
+  position: absolute;
+width: 348px;
+left: 965px;
+top: 1404px;
+
+background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+ }
+
+
+/* */
+
+/* Descriptions */
+.DescriptionsPorgraf {
+  position: absolute;
+  width: 688px;
+  height: 120px;
+  left: 376px;
+  top: 938px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+
+.DescriptionsPorgrafInfo {
+  position: absolute;
+  width: 238px;
+  height: 120px;
+  left: 140px;
+  top: 1353px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+
+.DescriptionsPorgrafProjectThree {
+  position: absolute;
+  width: 332px;
+  height: 50px;
+  left: 532px;
+  top: 1451px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+
+.DescriptionsTextProjectThree {
+  position: absolute;
+  width: 351px;
+  height: 75px;
+  left: 532px;
+  top: 1515px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  color: #615E5E;
+}
+
+
+
+.DescriptionsPorgrafProjectOne {
+  position: absolute;
+  width: 359px;
+  height: 60px;
+  left: 532px;
+  top: 1260px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 60px;
+  color: #FFFFFF;
+
+}
+
+.DescriptionsTextProjectOne {
+  position: absolute;
+  width: 351px;
+  height: 75px;
+  left: 532px;
+  top: 1316px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  color: #615E5E;
+}
+
+
+
+.DescriptionsPorgrafProjectTwo {
+  position: absolute;
+  width: 404px;
+  height: 60px;
+  left: 956px;
+  top: 1260px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+
+.DescriptionsTextProjectTwo {
+  position: absolute;
+  width: 351px;
+  height: 75px;
+  left: 965px;
+  top: 1316px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  color: #615E5E;
+}
+
+
+
+.DescriptionsPorgrafInfoTwo {
+  position: absolute;
+  width: 289px;
+  height: 60px;
+  left: 988px;
+  top: 1461px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.Arrow {
+  position: absolute;
+  width: 40px;
+  left: 1270px;
+  top: 1510px;
+  cursor: pointer;
+}
+
+/* */
+
+/* Portfolio */
+.PortfolioPoragrof{
+  position: absolute;
+width: 305px;
+height: 60px;
+left: 567px;
+top: 1752px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+}
+
+.RectangleOne1{
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 94px;
+top: 1859px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.PortfolioPoragrofProjectOne{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 115px;
+top: 2037px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 70px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.RectangleOne2{
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 94px;
+top: 2150px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.PortfolioPoragrofProjectTwo{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 115px;
+top: 2330px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.RectangleTwo1 {
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 513px;
+top: 1859px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.PortfolioPoragrofProjectThree{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 532px;
+top: 2037px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.RectangleTwo2{
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 513px;
+top: 2150px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.PortfolioPoragrofProjectFour{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 532px;
+top: 2330px;
+
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.RectangleThree1{
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 932px;
+top: 1859px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.PortfolioPoragrofProjectFive{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 951px;
+top: 2037px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.RectangleThree2{
+  position: absolute;
+width: 413px;
+height: 278px;
+left: 932px;
+top: 2150px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.PortfolioPoragrofProjectSix{
+  position: absolute;
+width: 128px;
+height: 60px;
+left: 951px;
+top: 2330px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 60px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.ArrowPortfolio1 {
+
+  position: absolute;
+  width: 31.02px;
+  left: 240px;
+  top: 2090px;
+  cursor: pointer;
+}
+.ArrowPortfolio2 {
+
+  position: absolute;
+  width: 31.02px;
+  left: 240px;
+  top: 2385px;
+  cursor: pointer;
+}
+.ArrowPortfolio3{
+position: absolute;
+width: 31.02px;
+left: 657px;
+top: 2090px;
+cursor: pointer;
+}
+.ArrowPortfolio4{
+  position: absolute;
+width: 31.02px;
+left: 657px;
+top: 2385px;
+cursor: pointer;
+}
+.ArrowPortfolio5{
+position: absolute;
+width: 31.02px;
+left: 1073px;
+top: 2090px;
+cursor: pointer;
+}
+.ArrowPortfolio6{
+  position: absolute;
+width: 31.02px;
+left: 1073px;
+top: 2385px;
+cursor: pointer;
+}
+.PortfolioNumberYears{
+  position: absolute;
+width: 55px;
+height: 118px;
+left: 319px;
+top: 2400px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 118px;
+/* identical to box height, or 118% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.VectorOne{
+  position: absolute;
+  left: 250px;
+  right: 700px;
+  top: 2500px;
+  bottom: 160px;
+  
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.YearsOld{
+  position: absolute;
+width: 114px;
+height: 118px;
+left: 250px;
+top: 2570px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118px;
+/* identical to box height, or 490% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.PortfolioNumberWorld{
+  position: absolute;
+width: 93px;
+height: 118px;
+left: 690px;
+top: 2400px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 82px;
+line-height: 118px;
+/* identical to box height, or 143% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.VectorTwo{
+  position: absolute;
+left: 650px;
+right: 4400px;
+top: 2500px;
+bottom: 160px;
+}
+.OficWorld{
+  position: absolute;
+width: 180px;
+height: 118px;
+left: 610px;
+top: 2560px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118px;
+/* identical to box height, or 490% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.PortfolioOldProject{
+  position: absolute;
+width: 177px;
+height: 118px;
+left: 1002px;
+top: 2400px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 118px;
+/* identical to box height, or 118% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.VectorTree{
+  position: absolute;
+left: 1010px;
+right: 1800px;
+top: 2520px;
+bottom: 160px;
+
+}
+.OldProject{
+  position: absolute;
+width: 248px;
+height: 118px;
+left: 940px;
+top: 2570px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 118px;
+/* identical to box height, or 490% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+/* */
+
+/* Footer */
+.FooterPoragrof{
+  position: absolute;
+width: 439px;
+height: 35px;
+left: 137px;
+top: 2760px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 35px;
+/* identical to box height, or 97% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.InputName{
+  
+position: absolute;
+width: 41px;
+height: 35px;
+left: 137px;
+top: 2848px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+
+text-align: center;
+
+color: #676161;
+}
+
+.InputEmail{
+  position: absolute;
+width: 52px;
+height: 35px;
+left: 455px;
+top: 2848px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+
+text-align: center;
+
+color: #676161;
+}
+.Vector4{
+  position: absolute;
+  width: 254px;
+  left: 137px;
+  top: 2890px;
+  cursor: pointer;
+
+}
+.Vector5{
+  position: absolute;
+  width: 263px;
+  left: 454px;
+  top: 2890px;
+  cursor: pointer;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.InputMassage {
+  position: absolute;
+width: 166px;
+height: 35px;
+left: 137px;
+top: 2945px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+
+text-align: center;
+
+color: #676161;
+}
+.Vector6{
+  position: absolute;
+width: 580px;
+left: 137px;
+top: 2987.15px;
+cursor: pointer;
+transform: rotate(-0.01deg);
+}
+.Button{
+  position: absolute;
+width: 215px;
+height: 53px;
+left: 124px;
+top: 3021px;
+color: white;
+font-size: 20px;
+font-weight: bold ;
+background: radial-gradient(50% 50% at 50% 50%, rgba(241, 71, 71, 0.9) 4.69%, rgba(42, 40, 180, 0.76) 100%);
+border-radius: 28px;
+cursor: pointer;
+}
+.Reborn-APP{
+  position: absolute;
+width: 391px;
+height: 35px;
+left: 115px;
+top: 3110px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 35px;
+/* identical to box height, or 175% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.FooterFast{
+  position: absolute;
+width: 321px;
+height: 60px;
+left: 932px;
+top: 2824px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.FooterPhone{
+  position: absolute;
+width: 153px;
+height: 30px;
+left: 1020px;
+top: 2897px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #FFFFFF;
+cursor: pointer;
+
+}
+.whatapp{
+  position: absolute;
+width: 39px;
+height: 38px;
+left: 1037px;
+top: 2950px;
+cursor: pointer;
+
+}
+
+.telegram{
+  position: absolute;
+width: 46px;
+height: 38px;
+left: 1080px;
+top: 2950px;
+cursor: pointer;
+
+}
+.gmail{
+  position: absolute;
+width: 48px;
+height: 45px;
+left: 1132px;
+top: 2950px;
+cursor: pointer;
+
+}
+.mmi {
+  position: absolute;
+width: 28px;
+height: 28px;
+left: 80px;
+top: 3130px;
+}
+/* */
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  .textHeaderOne {
+    position: absolute;
+    width: 233px;
+    height: 118px;
+    left: 550px;
+    top: 11px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 29px;
+    line-height: 118px;
+    text-align: center;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+
+.imgMenu {
+  position: absolute;
+  width: 63px;
+  height: 59px;
+  left: 800px;
+  top: 60px;
+  cursor: pointer;
+}
+
+.textHeaderMenu {
+  position: absolute;
+  width: 78px;
+  height: 80px;
+  left: 865px;
+  top: 11px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 118px;
+  text-align: center;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+.ContentPorgrafTwo {
+    position: absolute;
+    width: 429px;
+    height: 118px;
+    left: 107px;
+    top: 290px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 118px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.ContentPorgrafOne {
+  position: absolute;
+  width: 515px;
+  height: 118px;
+  left: 5px;
+  top: 243px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.ContentPorgrafTwo {
+  position: absolute;
+  width: 429px;
+  height: 118px;
+  left: 15px;
+  top: 290px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.ContentDescription {
+  position: absolute;
+  width: 355px;
+  height: 47px;
+  left: 40px;
+  top: 388px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 20px;
+  color: #7C7C7C;
+}
+.Rectangle1 {
+  position: absolute;
+  width: 270.85px;
+  height: 455.08px;
+  left: 470px;
+  top: 218.48px;
+  border-radius: 0px;
+  transform: matrix(0, 6, -0.32, 0.34, 0.94, 0, 0);
+}
+.Rectangle4 {
+  position: absolute;
+  width: 80.36px;
+  height: 70.17px;
+  left: 550px;
+  top: 620.61px;
+  border-radius: 0px;
+  transform: matrix(0.94, -0.34, 0.36, 0.93, 0, 0);
+}
+
+.Rectangle {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  left: 645px;
+  top: 220px;
+  border-radius: 0px;
+}
+.Rectangle2 {
+  position: absolute;
+  width: 300.49px;
+  height: 450.08px;
+  left: 660px;
+  top: 180.95px;
+  border-radius: 0px;
+  transform: matrix(0, 6, -0.32, 0.34, 1, 8, 0, 0);
+}
+.Rectangle3 {
+  position: absolute;
+  width: 150.36px;
+  height: 127.46px;
+  left: 850px;
+  top: 500.73px;
+  border-radius: 0px;
+  transform: rotate(-20.26deg);
+}
+.bx_bxl_git {
+  position: absolute;
+  width: 38px;
+  height: 36px;
+  left: 10px;
+  top: 749px;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.cib_github {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left:50px;
+  top: 753px;
+  cursor: pointer;
+}
+.simple_icons_woo {
+  position: absolute;
+  width: 37px;
+  height: 40px;
+  left: 90px;
+  top: 747px;
+  cursor: pointer;
+}
+.DescriptionsPorgraf {
+  position: absolute;
+  width: 688px;
+  height: 120px;
+  left: 200px;
+  top: 938px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+.DescriptionsPorgrafInfo {
+  position: absolute;
+  width: 238px;
+  height: 120px;
+  left: 20px;
+  top: 1353px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+.DescriptionsPorgrafProjectTwo {
+  position: absolute;
+  width: 404px;
+  height: 60px;
+  left: 532px;
+  top: 1625px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+.DescriptionsTextProjectTwo {
+  position: absolute;
+  width: 351px;
+  height: 75px;
+  left: 532px;
+  top: 1680px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  color: #615E5E;
+}
+.Vector3 {
+  position: absolute;
+  width: 348px;
+  left: 532px;
+  top: 1770px;
+  background: linear-gradient(90deg, #A18CD1 0%, #FBC2EB 100%);
+}
+.DescriptionsPorgrafInfoTwo {
+  position: absolute;
+  width: 289px;
+  height: 60px;
+  left: 20px;
+  top: 1515px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.Arrow {
+  position: absolute;
+  width: 40px;
+  left: 310px;
+  top: 1560px;
+  cursor: pointer;
+}
+.PortfolioPoragrof {
+  position: absolute;
+  width: 305px;
+  height: 60px;
+  left: 340px;
+  top: 1752px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+}
+.RectangleOne1 {
+  position: absolute;
+  width: 300px;
+  height: 170px;
+  left: 20px;
+  top: 1859px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.RectangleTwo1 {
+  position: absolute;
+  width: 300px;
+  height: 170px;
+  left: 330px;
+  top: 1859px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.RectangleThree1 {
+  position: absolute;
+  width: 300px;
+  height: 170px;
+  left: 640px;
+  top: 1859px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.PortfolioPoragrofProjectOne {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 90px;
+  top: 1920px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 70px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio1 {
+  position: absolute;
+  width: 31.02px;
+  left: 210px;
+  top: 1978px;
+  cursor: pointer;
+}
+.PortfolioPoragrofProjectThree {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 420px;
+  top: 1930px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio3 {
+  position: absolute;
+  width: 31.02px;
+  left: 540px;
+  top: 1985px;
+  cursor: pointer;
+}
+.PortfolioPoragrofProjectFive {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 730px;
+  top: 1930px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio5 {
+  position: absolute;
+  width: 31.02px;
+  left: 850px;
+  top: 1985px;
+  cursor: pointer;
+}
+.RectangleOne2 {
+  position: absolute;
+  width: 300px;
+  height: 170px;
+  left: 20px;
+  top: 2040px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.RectangleTwo2 {
+  position: absolute;
+  width: 300px;
+  height: 170px;;
+  left: 330px;
+  top: 2040px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.RectangleThree2 {
+  position: absolute;
+  width: 300px;
+  height: 170px;;
+  left: 640px;
+  top: 2040px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%), inset 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.PortfolioPoragrofProjectTwo {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 90px;
+  top: 2100px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio2 {
+  position: absolute;
+  width: 31.02px;
+  left: 210px;
+  top: 2154px;
+  cursor: pointer;
+}
+.PortfolioPoragrofProjectFour {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 420px;
+  top: 2100px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio4 {
+  position: absolute;
+  width: 31.02px;
+  left: 540px;
+  top: 2154px;
+  cursor: pointer;
+}
+.PortfolioPoragrofProjectSix {
+  position: absolute;
+  width: 128px;
+  height: 60px;
+  left: 730px;
+  top: 2100px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 60px;
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%), 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.ArrowPortfolio6 {
+  position: absolute;
+  width: 31.02px;
+  left: 850px;
+  top: 2154px;
+  cursor: pointer;
+}
+.PortfolioNumberYears {
+  position: absolute;
+  width: 55px;
+  height: 118px;
+  left: 250px;
+  top: 2400px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.YearsOld {
+  position: absolute;
+  width: 114px;
+  height: 118px;
+  left: 180px;
+  top: 2570px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.YearsOld2 {
+  position: absolute;
+  width: 114px;
+  height: 118px;
+  left: 240px;
+  top: 2570px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.PortfolioNumberWorld {
+  position: absolute;
+  width: 93px;
+  height: 118px;
+  left: 480px;
+  top: 2400px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 82px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.OficWorld {
+  position: absolute;
+  width: 180px;
+  height: 118px;
+  left: 400px;
+  top: 2560px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.PortfolioOldProject {
+  position: absolute;
+  width: 177px;
+  height: 118px;
+  left: 670px;
+  top: 2400px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.OldProject {
+  position: absolute;
+  width: 248px;
+  height: 118px;
+  left: 610px;
+  top: 2570px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.OldProject2 {
+  position: absolute;
+  width: 248px;
+  height: 118px;
+  left: 740px;
+  top: 2570px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.FooterPoragrof {
+  position: absolute;
+  width: 439px;
+  height: 35px;
+  left: 20px;
+  top: 2760px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 35px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.InputName {
+  position: absolute;
+  width: 41px;
+  height: 35px;
+  left: 20px;
+  top: 2848px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: center;
+  color: #676161;
+}
+.Vector4 {
+  position: absolute;
+  width: 254px;
+  left: 20px;
+  top: 2890px;
+  cursor: pointer;
+}
+.InputMassage {
+  position: absolute;
+  width: 166px;
+  height: 35px;
+  left: 20px;
+  top: 2945px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: center;
+  color: #676161;
+}
+.Vector6 {
+  position: absolute;
+  width: 580px;
+  left: 20px;
+  top: 2987.15px;
+  cursor: pointer;
+  transform: rotate(-0.01deg);
+}
+.InputEmail {
+  position: absolute;
+  width: 52px;
+  height: 35px;
+  left: 350px;
+  top: 2848px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: center;
+  color: #676161;
+}
+.Vector5 {
+  position: absolute;
+  width: 263px;
+  left: 350px;
+  top: 2890px;
+  cursor: pointer;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.FooterFast {
+  position: absolute;
+  width: 321px;
+  height: 60px;
+  left: 650px;
+  top: 2824px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.FooterPhone {
+  position: absolute;
+  width: 153px;
+  height: 30px;
+  left: 750px;
+  top: 2897px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.whatapp {
+  position: absolute;
+  width: 39px;
+  height: 38px;
+  left: 750px;
+  top: 2950px;
+  cursor: pointer;
+}
+.telegram {
+  position: absolute;
+  width: 46px;
+  height: 38px;
+  left: 795px;
+  top: 2950px;
+  cursor: pointer;
+}
+.gmail {
+  position: absolute;
+  width: 48px;
+  height: 45px;
+  left: 850px;
+  top: 2950px;
+  cursor: pointer;
+}
+.VectorOne{
+  position: absolute;
+  left: 180px;
+  right: 700px;
+  top: 2500px;
+  bottom: 160px;
+  
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.VectorTwo{
+  position: absolute;
+left: 430px;
+right: 4400px;
+top: 2500px;
+bottom: 160px;
+}
+.VectorTree{
+  position: absolute;
+left: 680px;
+right: 1800px;
+top: 2520px;
+bottom: 160px;
+
+}
+.OficWorld2{
+  position: absolute;
+  width: 180px;
+  height: 118px;
+  left: 495px;
+  top: 2560px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 118px;
+  /* identical to box height, or 490% */
+  
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+}

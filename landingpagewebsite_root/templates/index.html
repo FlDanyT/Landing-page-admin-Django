@@ -1,0 +1,44 @@
+{% load static %}
+{% for odj in object_list %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<link href="{% static 'index.css' %}" rel="stylesheet">
+
+</head>
+<body>
+        <div>
+            <div class='LogoFonts'>
+      <h3 class="textHeaderLogo">{{ odj.header_name }}</h3>
+            </div>
+            <div>
+                <h1 class="textHeaderOne">Оставить заявку</h1>
+                <h2 class="textHeaderMenu">Меню</h2>
+            </div>
+            <div>
+            <!-- <img class='imgMenu' src='./HeadersImgage/menu-img.jpg'> --> 
+			<img class='imgMenu' src="{% static 'img/HeadersImgage/menu-img.jpg' %}">
+      </img>
+            </div>
+        </div>
+        <div>
+            <p class="ContentPorgrafOne">{{ odj.title_description }}</p>
+            <p class="ContentPorgrafTwo">eСommerce приложений</p>
+            <h4 class="ContentDescription">{{ odj.description }}</h4>
+        </div>
+        <div>
+        <img class='Rectangle1' src="{% static 'img/ContentImage/Rectangle (1).png' %}">
+    <img class='Rectangle4' src="{% static 'img/ContentImage/Rectangle (4).png' %}">
+    <img class='Rectangle' src="{% static 'img/ContentImage/Rectangle.png' %}">
+    <img class='Rectangle2' src="{% static 'img/ContentImage/Rectangle (2).png' %}">
+    <img class='Rectangle3' src="{% static 'img/ContentImage/Rectangle (3).png'%}">
+            
+        
+
+            </div>
+</body>
+</html>
+{% endfor %}
